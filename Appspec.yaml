@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     IMAGE_TAG: v0.2
-    REPOSITORY_URI: 842675991414.dkr.ecr.us-east-1.amazonaws.com/my-app
+    REPOSITORY_URI: 842675991414.dkr.ecr.us-east-1.amazonaws.com/ecomm-app-rep
 
 phases:
   pre_build:
